@@ -1,8 +1,13 @@
-# Getting Started with Copy Cat
+# Copy Cat
 
-The Copy Cat app is the capstone project of Codecademy's Learn React course. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and composed with the exercise files.
+The Copy Cat app is the capstone project of Codecademy's "Learn React" course.
+The app was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and composed with the exercise files.
 
-The application shows a cute cat name Tom, eager to repeat everything you just typed in the input field available on the top of the page. It's possible to mute him at anytime by clicking over his face.
+The application features a cute cat named Tom.
+He will endlessly repeat everything you type into the input field available on the top of the page.
+And, in case you get tired of reading your own words, you can mute him at anytime by clicking over his face.
+
+Isn't it the cuttiest thing ever?
 ## Available Scripts
 
 In the project directory, you can run:
